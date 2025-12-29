@@ -4,7 +4,7 @@ This repository contains my solution for the "Movies" problem from Harvard's CS5
 
 ## Files
 
-- `movies.db` : A SQLite database containing five tables: `movies`, `stars`, `directors`, `people`, and `ratings`.
+- `movies.db` (Which i couldn't push because of size) : A SQLite database containing five tables: `movies`, `stars`, `directors`, `people`, and `ratings`.
 
 - `1.sql` through `13.sql` : Individual SQL files, where each file contains a single query to answer a specific question posed by the problem set.
 
